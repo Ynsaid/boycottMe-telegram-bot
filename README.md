@@ -18,5 +18,5 @@ A simple Telegram bot that helps users check if a brand supports Israel or not. 
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/boycott-checker-bot.git
+git clone https://github.com/Ynsaid/boycottMe-telegram-bot.git
 cd boycott-checker-bot
