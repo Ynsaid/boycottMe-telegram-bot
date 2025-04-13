@@ -126,7 +126,7 @@ async def check_brand(update: Update, context: ContextTypes.DEFAULT_TYPE):
 # Main function to run the bot
 def main():
    
-    application = Application.builder().token("7985895592:AAEeqNLL7Xlji6ZywZ_BhU4mYPiSzx7J3cs").build()
+    application = Application.builder().token("TOKER-HERE").build()
 
     # Add handlers
     application.add_handler(CommandHandler("start", start))
